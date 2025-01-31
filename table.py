@@ -3,8 +3,7 @@ data = [
     ["ID", "Name", "Age"],
     ["1", "Alice", "28"],
     ["2", "Bob", "32"],
-    ["3", "Charlie", "22"],
-    ["4","Stela","20"]
+    ["3", "Charlie", "22"]
 ]
 
 # Izračunavanje širine kolona
